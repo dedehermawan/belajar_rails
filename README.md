@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+"tutorial di dapat dari http://guides.railsgirls.com/app"
